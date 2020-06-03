@@ -1,0 +1,2 @@
+C:\Users\DK\source\repos\sqlite\Debug\sqlite.exe
+C:\Users\DK\source\repos\sqlite\Debug\sqlite.pdb
